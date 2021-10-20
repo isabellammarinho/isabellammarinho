@@ -1,5 +1,5 @@
 ### Hi there, I'm Isabella Marinho🌙
 
-- 📌 Futurre Developer Full Stack Java Jr. |💻 Student at @GenerationBrasil
+- 📌 Future Developer Full Stack Java Jr. |💻 Student at @GenerationBrasil
 
 
