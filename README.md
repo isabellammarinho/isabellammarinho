@@ -1,6 +1,5 @@
 ### Hi there, I'm Isabella Marinho🌙
 
-### Olá Me chamo Guilherme! Bem vindo ao Meu Repositorio👋
 
 <div align="center">
   <a href="https://github.com/isabellammarinho">
@@ -19,7 +18,7 @@
   ##
  
 <div> 
-  <a href = "mailto:guilhermevsouza18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:isabellamarcelomarinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabella-marinho-b75311221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![snake animation](https://github.com/isabellammarinho/isabellammarinho/blob/output/github-contribution-grid-snake.svg)
