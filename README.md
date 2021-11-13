@@ -28,5 +28,5 @@
  
 </div>
   
-  <p align="center"> Olá visitente! </p>
+  <p align="center"> Hello :) </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/isabellammarinho/count.svg" /></p>
