@@ -30,7 +30,7 @@
   
   <p align="center"> Hello :) </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/isabellammarinho/count.svg" /></p>
-  
+<div>  
   <HTML>
 	<HEAD><TITLE>Exibir Data e Hora em HTML </TITLE>
 		<script src="https://code.jquery.com/jquery-1.11.2.js"></script>
@@ -76,3 +76,4 @@
 		}
 	</script>	
 </HTML>
+</div>
